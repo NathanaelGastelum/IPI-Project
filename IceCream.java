@@ -1,3 +1,8 @@
+/* Lionel Quintanilla and Nathanael Gastelum
+   February 19, 2020
+   Purpose: This program calculates cost and calories from a shopping cart of desserts and prints a sorted receipt
+*/
+
 public class IceCream extends DessertItem {
 
     private double iceCreamCost;
